@@ -1,0 +1,2 @@
+This is a help.txt file for lesson 24
+we have been asked to use text BugFest and ValText
